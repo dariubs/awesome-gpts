@@ -14,4 +14,6 @@ A curated list of AI tools, products, models, datasets, courses, books, video le
 
 ## MLOps
 
+- [Modzy](https://www.modzy.com) - ModelOps and MLOps software platform that businesses use to deploy, integrate, run, and monitor AI—anywhere.
+
 ## Products
