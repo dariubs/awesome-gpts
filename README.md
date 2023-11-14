@@ -3,6 +3,31 @@ Awesome GPTs
 
 A curated list of awesome GPTs
 
+- [Education](#education)
+- [For Developers](#for-developers)
+- [For Fun](#for-fun)
+- [Lifestyle](#lifestyle)
+- [Productivity](#productivity)
+- [Writing](#writing)
+
+
+Education
+----------
+
+For Developers
+--------------
+
+For Fun
+-------
+
+Lifestyle
+---------
+
+
+Productivity
+------------
+
+
 Writing
 --------
 
